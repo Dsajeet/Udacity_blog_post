@@ -2,7 +2,7 @@
 Write a blog post  Airbnb  data. and data analysis on the Airbnb  data
 
 ## Motivation
-The analysis is to explore, investigate and explain factors relate to the price and the customer reviews of Airbnb listings in the NYC.  
+The analysis is to explore, investigate and explain factors relate to the price and the customer reviews of Airbnb listings.  
 ## Programming Language
 Python
 
