@@ -1,1 +1,2 @@
-
+## About Data
+This dataset, generously provided by AirBnB on Kaggle, covering Seattle listings on the site has the potential to shed some light on these questions. The data covers 3,818 listings on AirBnB in Seattle. It provides information on home features, review scores, and their availability in the year 2016 and the very first days of 2017. We have only two day’s worth of data for 2017, so this analysis is focused on 2016 data.
