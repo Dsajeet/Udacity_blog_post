@@ -35,3 +35,16 @@ Model: Linear Regression Machine Learning Algorithm. (Rsquare = 0.74)
 The model was trained and tested. The MAE, MSE, RMSE and Rsqaure measures are calculated and can be found in the jupyter notebook. 
 ## 6. Deployment/Explanation
 The analysis is conducted to identify answers to the business questions. The models identify the most related features to the price and the review ratings, while accounting for all other features. A blog post has been written to share and explain part of the findings to a non-technical audience. The purpose of the post is to help the audience to save money on Airbnb bookings, when visit the NYC. To visualize the relation between the features and the outcome variables, plots are generated and attached to the post.
+
+### Summary
+I found that the main driver for prices are how many people a listing can accommodate. Location is also very important aswell as aminities
+such as TV, parking, Internet and air condition.
+In order to get good reviews it vital to respond to every inquiry and dont have limitations on maximum nights. those who list many appartments gets worse reviews than thos who only list their own. Amenities are also important for good reviews.
+
+I also found that a Random Forest algorithm can predict AirBnB prices with an accuracy of 65%. I belive alot of the remaining variance in the price can be explained by the listings standard which is not a feature in the dataset.
+
+
+### Files:
+The project contains a Jupyter notebook where all the technical sides of the project has been conducted,
+A blogpost on Medium --> https://www.vedixera.com/2020/05/03/using-listing-data-to-understand-the-airbnb-market/
+A folder with the raw data and this readme file.
